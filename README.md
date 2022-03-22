@@ -1,5 +1,7 @@
 # My personal list of "awesome" learning resources.
 
+### What?
+
 I'm not a fan of "awesome" lists.
 This was made so I could find my own amazing stuff later.
 
