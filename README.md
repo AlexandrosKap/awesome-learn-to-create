@@ -5,7 +5,7 @@
 I'm not a fan of "awesome" lists.
 This was made so I could find my own amazing stuff later.
 
-> "Most of them are full of shit and are more about promoting that shit than anything else." (rwxrob,  World Wide Web)
+> "Most of them are full of shit and are more about promoting that shit than anything else." (rwxrob,  WorldWideWeb)
 
 ### Amazing stuff
 
