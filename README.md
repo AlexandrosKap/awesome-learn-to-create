@@ -9,4 +9,6 @@ This was made so I could find my own amazing stuff later.
 
 ### Amazing stuff
 
+* [Programming glossary](https://dlang.org/glossary.html) - A glossary for developers.
+
 * [Sh - the POSIX Shell](https://www.grymoire.com/Unix/Sh.html) - A POSIX shell tutorial.
