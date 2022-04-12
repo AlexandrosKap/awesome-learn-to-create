@@ -7,7 +7,8 @@ This was made so I could find my own amazing stuff later.
 
 ## Tutorials
 
-* [POSIX Shell tutorial](https://www.grymoire.com/Unix/Sh.html)
+* [Godot](https://www.gdquest.com/tutorial/godot/)
+* [POSIX Shell](https://www.grymoire.com/Unix/Sh.html)
 
 ## Resources
 
